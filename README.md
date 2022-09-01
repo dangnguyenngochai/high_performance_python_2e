@@ -1,3 +1,9 @@
+The repo is forked from the book repo itself, 
+so it might contain some random note expressing my personal understanding
+on the subject.
+Feel free to re-use it if you find this helpful.
+
+=================================
 High Performance Python 2e: The Code
 =================================
 
